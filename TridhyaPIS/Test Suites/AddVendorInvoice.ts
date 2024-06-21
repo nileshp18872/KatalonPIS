@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>AddVendorInvoice</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>d900e396-bb03-412f-be7c-71f8e2773eff</testSuiteGuid>
+   <testCaseLink>
+      <guid>767dc218-8bef-4eec-914a-b5f46bb158b1</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/AddVendorInvoice</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>00e23a91-9d66-43ae-879f-8365081ef19f</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/AddVendorInvoice</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>00e23a91-9d66-43ae-879f-8365081ef19f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Vendor</value>
+         <variableId>5ad7af14-3244-4eb4-a475-999df82cac8c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>00e23a91-9d66-43ae-879f-8365081ef19f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Project</value>
+         <variableId>06429d3c-9217-4ccf-a53e-23a39ae404ea</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>00e23a91-9d66-43ae-879f-8365081ef19f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Invoice</value>
+         <variableId>6612c2b7-a448-48d3-868a-0c477e853cc6</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>00e23a91-9d66-43ae-879f-8365081ef19f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>VendorInvoiceAmt</value>
+         <variableId>13937879-b5ce-442f-9062-5982a6a6e9d5</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>00e23a91-9d66-43ae-879f-8365081ef19f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>InvoiceImage</value>
+         <variableId>57561bec-6709-481b-9f6f-3f915cf6e650</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

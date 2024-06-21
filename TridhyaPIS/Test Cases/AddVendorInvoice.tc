@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AddVendorInvoice</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1bf9f44a-d523-43a6-bd34-6609801584a0</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5ad7af14-3244-4eb4-a475-999df82cac8c</id>
+      <masked>false</masked>
+      <name>Vendor</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>06429d3c-9217-4ccf-a53e-23a39ae404ea</id>
+      <masked>false</masked>
+      <name>Project</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6612c2b7-a448-48d3-868a-0c477e853cc6</id>
+      <masked>false</masked>
+      <name>Invoice</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>13937879-b5ce-442f-9062-5982a6a6e9d5</id>
+      <masked>false</masked>
+      <name>VendorInvoiceAmt</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>57561bec-6709-481b-9f6f-3f915cf6e650</id>
+      <masked>false</masked>
+      <name>InvoiceImage</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>adc47242-4538-47f6-a102-d7bf0d309512</testCaseGuid>
+   <variable>
+      <defaultValue>'sagar.s@tridhyatech.com'</defaultValue>
+      <description></description>
+      <id>51149cf0-0231-4597-8268-206a6ba35de8</id>
+      <masked>false</masked>
+      <name>user_email</name>
+   </variable>
+   <variable>
+      <defaultValue>'tridhya@123'</defaultValue>
+      <description></description>
+      <id>64e2d0ad-1c84-4a64-a3f7-0fb4cc68e26b</id>
+      <masked>false</masked>
+      <name>user_pass</name>
+   </variable>
+</TestCaseEntity>

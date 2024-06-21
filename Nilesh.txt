@@ -1,0 +1,68 @@
+PIS TestCases Google Sheet
+https://docs.google.com/spreadsheets/d/1BLVqWbubFocKGlmlYazv390VLo7_Ozz3QBYFzBogT4k/edit?invite=CP-ko_EP#gid=0
+
+
+Session Recording
+https://contcentricpvtltd-my.sharepoint.com/:v:/g/personal/divya_v_tridhyatech_com/ETw4X7HexitKrpbozzfkbSoBg-T1l1htfFCB8y_v_ay9Xw?e=1d65FJ
+
+Hello @Nilesh sir @Mahek 
+
+Find PIS staging credentials as below:
+
+URL :PIS Login (tridhyatech.com)
+https://devpis.tridhyatech.com/login
+
+Divya Local URLs:
+https://172.16.1.164/pis2-newprojectchange/public/login
+
+
+Admin :
+
+sagar.s@tridhyatech.com
+tridhya@123
+
+Super Admin: 
+superadmin@gmail.com 
+tridhya@123 
+
+
+Superadmin:
+
+superadmin@gmail.com
+tridhya@123
+
+Accountant :
+
+testaccountant@yopmail.com
+tridhya@123
+
+Sales:
+
+vivek.s@tridhyatech.com
+tridhya@123
+
+milan.p@tridhyatech.com
+tridhya@123
+
+
+Can you give us the credentials of account manager for the companies like Shaligram and Satvasoft for staging?
+This is the emails of the Accountants of tridhya and shaligram we don't have an accountant for satva
+tridhya : testaccountant@yopmail.com
+shaligram : account@shaligraminfotech.com
+
+DASHBOARD CALCULATIONS
+===================
+
+Hello @Nilesh sir
+
+You can refer to this :
+
+upcoming invoice generation = invoice date + buffer day = current date.
+Not created invoice = invoice date + buffer day < current date.
+Invoice delayed = Project milestones which are marked as delayed for project/cr.
+Payment due = invoice created date + payment term days = current date.
+Payment overdue = invoice created date + payment term days < current date.
+
+
+
+
